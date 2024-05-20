@@ -1,0 +1,55 @@
+.titulo-principal{
+    padding-left: 30px;    
+    /* espaciamiento en parte internas */
+}
+
+#banner{
+    /* Selector de identificadores */
+    width: 100%;
+    /* define que el baner ocupe el 100% de la página */
+}
+
+.principal{
+    /* selector de clase */
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+em strong{
+    /* selector de etiquetas */
+    color: red;
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.diferenciales{
+    /* selector de clase */
+    background: #FFFFFF;
+    padding: 30px;    
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    /* define si ocupa el 100% de la pagian o solo su contenido*/
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales{
+    width: 50%;
+}
