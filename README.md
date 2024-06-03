@@ -15,6 +15,6 @@ Se aplicó técnicas para que la Web sea mas inclusiva, es decir para que person
 
 <ul>
 
-<li> <b>Atributo alt: Clave para que las personas con discapacidad visual comprendan tus imágenes.</b> <a href="https://www.linkedin.com/pulse/transforma-tu-p%25C3%25A1gina-web-en-una-experiencia-adaptable-ramirez-b5kze](https://www.linkedin.com/pulse/atributo-alt-clave-para-que-las-personas-con-visual-tus-ramirez-fyyce)">Click Aquí</a></li>
+<li> <b>Atributo alt: Clave para que las personas con discapacidad visual comprendan tus imágenes.</b> <a href="https://www.linkedin.com/pulse/atributo-alt-clave-para-que-las-personas-con-visual-tus-ramirez-fyyce/">Click Aquí</a></li>
 
 </ul>
